@@ -28,6 +28,15 @@ background: #495ea9 !important;
 body {
 color: #ffffff !important;
 }
+h1 {
+color: #ffffff !important;
+}
+h2 {
+color: #ffffff !important;
+}
+th {
+color: #ffffff !important;
+}
 .bot-name {
   color:white;
   -webkit-background-clip: text;
@@ -43,6 +52,9 @@ color: #495ea9 !important;
 .content {
 background-color: #2C2F33 !important;
 }
+tr:hover {
+background-color: #212428 !important;
+}
 span.lib {
   color:white !important;
 }
@@ -51,6 +63,9 @@ span#prefix {
 }
 a:hover {
     color: white !important;
+}
+.margin-bottom: 15px {
+    color: black !important;
 }
 strong:hover {
     color: black !important;
