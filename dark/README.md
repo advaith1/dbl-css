@@ -16,5 +16,5 @@ Also, this theme removes ads on your bot page!
 
 ## Adding this theme
 
-Simply put this css in your Long Description, in between `<style>` and `</style`.  
+Simply put this css in your Long Description, in between `<style>` and `</style>`.  
 You don't need to be certified!
