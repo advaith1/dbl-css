@@ -1,3 +1,7 @@
+#bot-details-page .bot-img {
+	background: transparent;
+	box-shadow: none !important;
+}
 .page {
 	color: #ffffff !important;
 }
