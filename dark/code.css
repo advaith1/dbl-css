@@ -43,6 +43,7 @@ th {
 	box-shadow: none !important;
 	color: #2C2F33 !important;
 }
+}
 .color-medium-blue {
 	color: #495ea9 !important;
 }
@@ -69,7 +70,6 @@ tr:hover {
 .botpagebutton::after {
 	background: #fff;
 	border-bottom: 13px solid transparent;
-
 	border-top: 13px solid transparent;
 	content: '';
 	position: absolute;
@@ -145,3 +145,10 @@ strong:hover {
 #menu {
 	background: #212428 !important;
 }
+#report {
+  color: #E1553E!important;
+  -webkit-transition: color 0.3s!important;
+}
+#report:hover {
+    background-color: #E1553E!important;
+  color: white!important;
