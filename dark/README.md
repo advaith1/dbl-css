@@ -12,7 +12,7 @@ Better Dark theme:
 
 The Better Dark theme always shows the dark theme, regrdless of the user's setting.
 
-Also, this theme removes ads on your bot page!
+~~Also, this theme removes ads on your bot page!~~ Update: DBL now shows ads on all bot pages. :(
 
 ## Adding this theme
 
