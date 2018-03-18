@@ -8,7 +8,7 @@ Standard Dark theme:
 Better Dark theme:  
 ![Better Dark](https://i.dis.gg/na8b8ed.png)
 
-[Example](https://discordbots.org/bot/398690824721924107)
+Examples: [AdvaithBot](https://discordbots.org/bot/398690824721924107), [Assistant](https://discordbots.org/bot/344506432223182848), [Chewbottca](https://discordbots.org/bot/200052560399171584)
 
 The Better Dark theme always shows the dark theme, regrdless of the user's setting.
 
