@@ -10,9 +10,6 @@ html {
 .status.green {
 	color: #00ff3c !important;
 }
-.column {
-	margin: auto !important;
-}
 code {
 	background: #212428 !important;
 	color: #7289da !important;
@@ -39,6 +36,7 @@ th {
 	color: white;
 	-webkit-background-clip: text;
 	background-clip: text;
+}
 .longdescription .content {
 	box-shadow: none !important;
 	color: #2C2F33 !important;
